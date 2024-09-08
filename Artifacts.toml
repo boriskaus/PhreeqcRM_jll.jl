@@ -1,65 +1,65 @@
 [[PhreeqcRM]]
 arch = "aarch64"
-git-tree-sha1 = "be477ed3816ab3828d993863acd26140976d6721"
+git-tree-sha1 = "fc62afb409af3499ebbb6d00b4501ba87194f58d"
 libgfortran_version = "5.0.0"
 os = "macos"
 
     [[PhreeqcRM.download]]
-    sha256 = "4830d157d895baccd4883b5f53600217ba67a8ace7fbabb88efd94a9d1c1eb76"
+    sha256 = "a384a6db6efb73f9cb698ea6aed835526b99a5c6a40d5e058a6228ffa28becda"
     url = "https://github.com/boriskaus/PhreeqcRM_jll.jl/releases/download/PhreeqcRM-v3.8.2+0/PhreeqcRM.v3.8.2.aarch64-apple-darwin-libgfortran5.tar.gz"
 [[PhreeqcRM]]
 arch = "x86_64"
-git-tree-sha1 = "8e3bb4486ce6977e31247349a954ca276278642d"
+git-tree-sha1 = "4e140bc44b4dcb9e5c157bf91c2993b9d80052ec"
 libgfortran_version = "4.0.0"
 os = "macos"
 
     [[PhreeqcRM.download]]
-    sha256 = "7f458d5dc8e39a001bacfa99e58532221ae38c96996907139222defcbdb07b03"
+    sha256 = "736647281b9373bf9c7530e8dff6bed4256bb67187baf13ddfd624d576ce94cd"
     url = "https://github.com/boriskaus/PhreeqcRM_jll.jl/releases/download/PhreeqcRM-v3.8.2+0/PhreeqcRM.v3.8.2.x86_64-apple-darwin-libgfortran4.tar.gz"
 [[PhreeqcRM]]
 arch = "x86_64"
-git-tree-sha1 = "8e3bb4486ce6977e31247349a954ca276278642d"
+git-tree-sha1 = "4e140bc44b4dcb9e5c157bf91c2993b9d80052ec"
 libgfortran_version = "5.0.0"
 os = "macos"
 
     [[PhreeqcRM.download]]
-    sha256 = "7f458d5dc8e39a001bacfa99e58532221ae38c96996907139222defcbdb07b03"
+    sha256 = "736647281b9373bf9c7530e8dff6bed4256bb67187baf13ddfd624d576ce94cd"
     url = "https://github.com/boriskaus/PhreeqcRM_jll.jl/releases/download/PhreeqcRM-v3.8.2+0/PhreeqcRM.v3.8.2.x86_64-apple-darwin-libgfortran5.tar.gz"
 [[PhreeqcRM]]
 arch = "x86_64"
-git-tree-sha1 = "59893d87c9896eafbaab985f304234356f6ff8c9"
+git-tree-sha1 = "62f5e3143259f28c3313b005967052d1b7820da4"
 libc = "glibc"
 libgfortran_version = "4.0.0"
 os = "linux"
 
     [[PhreeqcRM.download]]
-    sha256 = "0beb9b3449486501a451446a700c4c7f30e14ec0aea0165ff6e43f67fa36bf8d"
+    sha256 = "909e12e362d5c22b4841ca87a28eaad680c5f97a487722ff8d370a573fc512bc"
     url = "https://github.com/boriskaus/PhreeqcRM_jll.jl/releases/download/PhreeqcRM-v3.8.2+0/PhreeqcRM.v3.8.2.x86_64-linux-gnu-libgfortran4.tar.gz"
 [[PhreeqcRM]]
 arch = "x86_64"
-git-tree-sha1 = "90b5ddc373b9e60fb39d7c0ad378cb57955c2332"
+git-tree-sha1 = "e15e7d6f214e2ef07d6bd7af3928bffef384240f"
 libc = "glibc"
 libgfortran_version = "5.0.0"
 os = "linux"
 
     [[PhreeqcRM.download]]
-    sha256 = "96c4fb31b0572d8d976880056a2cd243c7f3a8abf47c73421461c86a32ef09a8"
+    sha256 = "78253096a64cc3713c772f902d53ac83b5632b2c36e7d98cc9bf78a78335e4cf"
     url = "https://github.com/boriskaus/PhreeqcRM_jll.jl/releases/download/PhreeqcRM-v3.8.2+0/PhreeqcRM.v3.8.2.x86_64-linux-gnu-libgfortran5.tar.gz"
 [[PhreeqcRM]]
 arch = "x86_64"
-git-tree-sha1 = "495e75b7f449f0c28b68561ced10fc7dd23a37a6"
+git-tree-sha1 = "56d9c5ada27cdece493bb1145a512bc0881cc116"
 libgfortran_version = "4.0.0"
 os = "windows"
 
     [[PhreeqcRM.download]]
-    sha256 = "4c660feffdd611e46f90e1f4444fd04d271a5aea053177589fe8ef7820adccc0"
+    sha256 = "3a96fc04006b48a59a1b3a04fc7a5e6fb91b0cb33fa45173fb339e623c94cff9"
     url = "https://github.com/boriskaus/PhreeqcRM_jll.jl/releases/download/PhreeqcRM-v3.8.2+0/PhreeqcRM.v3.8.2.x86_64-w64-mingw32-libgfortran4.tar.gz"
 [[PhreeqcRM]]
 arch = "x86_64"
-git-tree-sha1 = "f2e170d39b55caf66c1ecc5666dbf83e85c7dc74"
+git-tree-sha1 = "d1697f5fdb582ba48d08a74aa8867a3868b50bae"
 libgfortran_version = "5.0.0"
 os = "windows"
 
     [[PhreeqcRM.download]]
-    sha256 = "2d2740835d72c0805195fd63a795d4055fcadd18c7c9ca1a5984a832e44f2725"
+    sha256 = "509c80c502e6e5f9935f0f1ba62980c6484d1f003cc2146bce8a2406f389350c"
     url = "https://github.com/boriskaus/PhreeqcRM_jll.jl/releases/download/PhreeqcRM-v3.8.2+0/PhreeqcRM.v3.8.2.x86_64-w64-mingw32-libgfortran5.tar.gz"
