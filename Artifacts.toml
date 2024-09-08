@@ -1,0 +1,9 @@
+[[PhreeqcRM]]
+arch = "aarch64"
+git-tree-sha1 = "0120ca45cd313d8abf413ef76bca62dedeb23fa8"
+libgfortran_version = "5.0.0"
+os = "macos"
+
+    [[PhreeqcRM.download]]
+    sha256 = "6dffbfd8a77fb6f0fcb02d0d22733b30dc6e98d1d4d7185c22fe604c6b3908c6"
+    url = "https://github.com/boriskaus/PhreeqcRM_jll.jl/releases/download/PhreeqcRM-v3.8.2+0/PhreeqcRM.v3.8.2.aarch64-apple-darwin-libgfortran5.tar.gz"
